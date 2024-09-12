@@ -218,8 +218,8 @@ h1,h2,h3,p,li {
 
 /* Стили для чередования фона вкладов */
 .deposit:nth-child(odd) {
-    background-color: #0059a7; /* Цвет для нечетных контейнеров */
-    color: white; /* Цвет текста */
+    background-color: #a73500; /* Цвет для нечетных контейнеров */
+    color: rgb(97, 19, 222); /* Цвет текста */
 }
 /* Стили для заголовка вклада */
 .deposit h3 {
@@ -251,7 +251,7 @@ h1,h2,h3,p,li {
     width: 100%;
     padding: 5px;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #da0101;
 }
 
 .radio-group {
